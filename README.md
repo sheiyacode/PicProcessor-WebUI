@@ -2,10 +2,10 @@
 Repositori ini berisi program Python berbasis web yang dirancang untuk melakukan berbagai operasi dasar pengolahan citra digital.
 
 ✨ Fitur Utama
-Web Interface: Menggunakan Streamlit untuk antarmuka yang interaktif dan modern.
-Custom Styling: Dipercantik dengan integrasi CSS kustom pada elemen UI.
-Real-time Processing: Hasil olah citra langsung ditampilkan setelah gambar diunggah.
-Histogram Analysis: Visualisasi distribusi warna menggunakan Matplotlib.
+1. Web Interface: Menggunakan Streamlit untuk antarmuka yang interaktif dan modern.
+2. Custom Styling: Dipercantik dengan integrasi CSS kustom pada elemen UI.
+3. Real-time Processing: Hasil olah citra langsung ditampilkan setelah gambar diunggah.
+4. Histogram Analysis: Visualisasi distribusi warna menggunakan Matplotlib.
 
 🚀 Cara Menjalankan
 1. Pastikan Anda sudah menginstal Python di komputer Anda. Disarankan menggunakan Python 3.8 ke atas.
@@ -18,8 +18,8 @@ Masuk ke direktori proyek dan jalankan perintah:
 Aplikasi akan secara otomatis terbuka di browser default.
 
 🛠️ Teknologi yang Digunakan
-Python: Bahasa pemrograman utama.
-OpenCV: Library untuk pemrosesan visi komputer (Computer Vision).
-Streamlit: Framework untuk membangun antarmuka web secara cepat.
-Matplotlib: Untuk plotting grafik dan histogram.
-NumPy: Untuk manipulasi array dan data citra.
+1. Python: Bahasa pemrograman utama.
+2. OpenCV: Library untuk pemrosesan visi komputer (Computer Vision).
+3. Streamlit: Framework untuk membangun antarmuka web secara cepat.
+4. Matplotlib: Untuk plotting grafik dan histogram.
+5. NumPy: Untuk manipulasi array dan data citra.
